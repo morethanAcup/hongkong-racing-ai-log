@@ -2,8 +2,10 @@ title: 香港赛马 AI 研究日志
 description: "一个让 AI 学习看香港赛马的研究记录。本站为研究日志，非投资建议；目前尚未验证出稳定盈利优势。"
 theme: minima
 author:
-  name: CG
+  name: 香港赛马 AI 研究小组
 markdown: kramdown
+# 文章 URL 风格：带日期嵌套，研究日志有追溯感；显式写死防止主题更新后变动
+permalink: /:year/:month/:day/:title/
 # 以下文件只用于写作管理，不发布成网页
 exclude:
   - POST_TEMPLATE.md

@@ -43,9 +43,9 @@ Benter 的做法是：拿公开赔率当起点，再用自己的算法去修正�
 
 1990–91 赛季，他赢了约三百万美金。
 
-真正被反复提起的，是 2001 年。那晚香港马会开出了史上最大的彩池——三 T（一种很难中的连赢组合），累积六期没人中，奖金过亿港币。
+真正被反复提起的，是 2001 年。那晚香港马会开出了史上最大的彩池——三 T（一种很难中的连赢组合），累积六期没人中，滚存奖池过亿港币。
 
-Benter 砸了一百六十万港币，买了五万多注组合。结果，中了——一千六百万港币。
+Benter 砸了一百六十万港币，买了五万多注组合。结果，中了——实际派彩一千六百万港币。
 
 你猜他干了什么？他看了看中奖的票，跟搭档说："把这钱领了，太不体面了吧？"然后，把彩票锁进保险柜，一分钱没领，任由这笔钱流向慈善机构。
 
@@ -56,7 +56,7 @@ Benter 砸了一百六十万港币，买了五万多注组合。结果，中了�
 我们对此**始终存疑**。尤其要指出的是，原文报道为了增加戏剧性，刻意把 Benter 和马会的关系写成"对立"——仿佛马会曾想赶他走、又给他特殊优待、还视他为头号威胁。但这种写法经不起推敲：
 
 - 马会本质是固定抽水（约 17%）的投注市场，靠成交量赚钱，做的是扩大投注量而非驱逐赢家，没有任何动机或机制去"赶走"一个下注的人；所谓"专用投注终端"不过是马会向所有大额客户提供的标准设施，并非只给他一人的优待；而即便按报道数字，他一个赛季赢约三百万美金，放在香港马会以百亿美金计的年投注总盘里并不突出，顶多算是优质客户之一，远称不上"最好的客户"或"最不想见到的人"。
-- 那个"十亿美金"，出自媒体报道，口径是"据说"——Benter 本人从不公开承认，没有审计报告、没有银行流水。
+- 那个"十亿美金"，口径多是"据说"——Benter 在报道里只含糊承认团队累计"接近十亿"，却说自己"不是亿万富翁"，既没有公开审计报告，也没有银行流水可查。
 - 更微妙的是，他多年的搭档 Alan Woods，到死都坚持认为 Benter 根本没中那个 2001 年的头奖。合作几十年的合伙人都不信，蹊跷。
 - 当然，故事里也有一份硬证据：Woods 2011 年去世后的遗嘱被公开，资产 9.39 亿澳元、负债 15.93 澳元（没错，十几块）。这是法律文件，做不了假——它至少证明，那个圈子里确实有人赚到了惊人的财富。
 
@@ -134,9 +134,9 @@ Benter's trick was to take the public odds as a starting point, then correct the
 
 In the 1990–91 season, he won about $3 million.
 
-What gets repeated most is 2001. That year the Hong Kong Jockey Club offered the largest jackpot the city had ever seen — the Triple Trio, a notoriously hard combination bet, rolled over six times with no winner, pushing the prize past HK$100 million.
+What gets repeated most is 2001. That year the Hong Kong Jockey Club offered the largest jackpot the city had ever seen — the Triple Trio, a notoriously hard combination bet, rolled over six times with no winner, pushing the rolled-over pool past HK$100 million.
 
-Benter sank HK$1.6 million into more than 50,000 combinations. And he hit — HK$16 million.
+Benter sank HK$1.6 million into more than 50,000 combinations. And he hit — an actual payout of HK$16 million.
 
 What did he do next? He looked at the winning ticket, told his partner it would be "rather undignified" to cash it, locked the ticket in a safe, and collected nothing — letting the money flow to charity.
 
@@ -147,7 +147,7 @@ By now you might think the man was a god. But the more dazzling the story, the m
 We remain skeptical. In particular, the original report, to heighten the drama, deliberately framed Benter's relationship with the Club as adversarial — as if the Club had wanted to drive him out, yet also granted him special privileges, and treated him as its number-one threat. That framing does not hold up:
 
 - The Jockey Club is, at its core, a betting market that takes a fixed cut (~17%) and profits from volume; its business is to grow the pool, not expel winners, and it has no motive or mechanism to "drive away" a bettor. The so-called "dedicated betting terminal" was simply a standard facility the Club offers all high-volume customers, not a privilege reserved for him alone. And even by the report's own numbers, his ~$3 million seasonal win, set against the Club's annual turnover measured in tens of billions of dollars, is unremarkable — at best one of its quality customers, far from its "best customer" or "least wanted bettor."
-- That "billion dollars" comes from media reports, framed as "supposedly" — Benter himself never publicly admitted it, with no audit and no bank statements.
+- That "billion dollars" is mostly "supposedly" — in the report, Benter only vaguely conceded his operation made "close to a billion," while saying he was "not a billionaire," with no public audit and no bank statements to check.
 - More tellingly, his longtime partner Alan Woods insisted to the end of his life that Benter never won that 2001 jackpot. When a decades-long partner doesn't believe it, something is off.
 - To be fair, there is one hard piece of evidence: Woods' will, made public after his 2011 death, listed assets of A$939 million and liabilities of A$15.93 (yes, about sixteen dollars). A legal document can't be faked — at minimum it proves that someone in that circle did amass staggering wealth.
 
